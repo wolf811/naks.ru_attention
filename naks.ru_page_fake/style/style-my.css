@@ -1,0 +1,6 @@
+.gl {margin-bottom: 15px;}
+
+#contactsBlock table, #detailsBlock table {font-size: 0.9em;}
+#contactsBlock .table th, #contactsBlock .table td, #detailsBlock .table th, #detailsBlock .table td {border: 1px solid #ccc; background-color: transparent;}
+#contactsBlock .table th, #detailsBlock .table th {font-weight: bold; width: 40%;}
+#contactsBlock i {margin-right: 10px; color: #3573B6;}
