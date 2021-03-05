@@ -21,9 +21,10 @@ body {
     background-image: url(../images/bg-top.gif);
 }
 
-.c2 {
-    background-image: url(../images/map.gif);
-}
+/*.c2 {
+    background-image: url(../images/map.png);
+    background-position: 55% 10%;
+}*/
 
 .but {
     background-image: url(../images/button.gif);
